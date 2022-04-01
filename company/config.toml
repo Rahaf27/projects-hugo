@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+relativeURLs = "true" 
+languageCode ='ar'
+title = "Landing Page"
+
+[permalinks]
+  services = "/our-services/:filename/"
+  projects = "/our-projects/:filename/"
